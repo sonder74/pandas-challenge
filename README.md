@@ -55,7 +55,7 @@ Player Count
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
-### Purchasing Analysis (Gender)
+**Purchasing Analysis (Gender)**
 
 * The below each broken by gender
   * Purchase Count
