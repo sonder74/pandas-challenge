@@ -79,7 +79,7 @@ Player Count
   * Average Purchase Price
   * Total Purchase Value
 
-### Most Popular Items
+**Most Popular Items**
 
 * Identify the 5 most popular items by purchase count, then list (in a table):
   * Item ID
