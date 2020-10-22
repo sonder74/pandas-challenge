@@ -71,7 +71,7 @@ Player Count
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
-### Top Spenders
+**Top Spenders**
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
