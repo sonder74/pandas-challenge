@@ -30,7 +30,7 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 5. Push the above changes to GitHub or GitLab.
 
-## Option 1: Heroes of Pymoli
+**Option 1: Heroes of Pymoli**
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
@@ -42,14 +42,14 @@ Player Count
 
 * Total Number of Players
 
-### Purchasing Analysis (Total)
+**Purchasing Analysis (Total)**
 
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
 
-### Gender Demographics
+**Gender Demographics**
 
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
