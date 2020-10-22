@@ -106,3 +106,6 @@ As final considerations:
 
 **Instructions copyright:**
 Trilogy Education Services © 2019. All Rights Reserved.
+
+## Tools and Solutions
+With my **Heroes of Pymoli** project, I had my first opportunity to use what have since become two of my favorite data-analyis tools: Jupyter Notebooks and Python's Pandas library. I used them to access a large set of fantasy-game purchasing data
