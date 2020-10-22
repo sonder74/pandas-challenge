@@ -119,6 +119,6 @@ As a result of my data analysis and visualization, I was able to observe <a href
 
 * The makers of Heroes of Pymoli may have an opportunity to increase profits by raising the prices of 'Pursuit, Cudgel of Necromancy' and 'Extraction, Quickblade Of Trembling Hands.' They are the lowest-priced of the game's five most popular items, and neither is currently among the game's five most profitable items.
 
-**Pandas-challenge** was my definitely favorite homework assignment to date. Pandas dataframes are clear and simple way to visualize complex data, and the Python that powers them is genuinely fun to write. I look forward to using these tools later in this class.
+**Pandas-challenge** was definitely my favorite homework assignment to date. Pandas dataframes are clear and simple way to visualize complex data, and the Python that powers them is genuinely fun to write. I look forward to using these tools later in this class.
 
 
